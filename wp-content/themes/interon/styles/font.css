@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'pathway_gothic_oneregular';
+    src: url('fonts/pathwaygothicone-regular-webfont.eot');
+    src: url('fonts/pathwaygothicone-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/pathwaygothicone-regular-webfont.woff2') format('woff2'),
+         url('fonts/pathwaygothicone-regular-webfont.woff') format('woff'),
+         url('fonts/pathwaygothicone-regular-webfont.svg#pathway_gothic_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
